@@ -15,5 +15,4 @@ class RiderTest < ActiveSupport::TestCase
     assert_equal('Daenerys brings Lightbringer crashing down!', daenerys.swing)
     assert_equal('Aegon brings Blackfyre crashing down!', aegon.swing)
   end
-
 end
